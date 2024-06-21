@@ -1,4 +1,4 @@
-﻿altair==5.3.0
+altair==5.3.0
 attrs==23.2.0
 audioread==3.0.1
 blinker==1.8.2
@@ -72,4 +72,4 @@ typing_extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.2
 watchdog==4.0.1
- whisper
+whisper==1.1.10
